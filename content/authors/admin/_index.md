@@ -28,7 +28,7 @@ role: Professor <br/> College of Computer Science and Software Engineering
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Shenzhen University
-    url: [https://ai.meta.com/](https://en.szu.edu.cn/)
+    url: https://en.szu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
