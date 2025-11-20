@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dian Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: '张滇'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Dian
+last_name: Zhang
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,35 +23,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Professor <br/> College of Computer Science and Software Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Shenzhen University
+    url: [https://ai.meta.com/](https://en.szu.edu.cn/)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:zhangd@szu.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+  #- icon: brands/x
+  #  url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Artificial Intelligence
+  - Internet of Things
+  - Wireless Sensor Networks
+  - Smart Health
 
 education:
   - area: PhD Computer Science (AI Focus)
